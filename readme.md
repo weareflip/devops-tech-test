@@ -26,10 +26,11 @@ Requirements for the configuration:
 This tech test aims to assess the candidate's ability to diagnose issues.
 
 The following is a broken docker file, diagnose the issue(s) and fix them so that you can view the file from http://localhost:8080 by running the following commands:
+
 ```docker build . -t tech-test
 docker run -p 8080:80 tech-test```
 
- 
+
 ```# @TODO: Upgrade this to php:7.4-apache-bullseye
 FROM php:7.3-apache-stretch as app
   
