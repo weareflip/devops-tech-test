@@ -4,9 +4,6 @@
 ## Part 1: Terraform configuration
 
 This part of the tech test aims to assess the candidate's understanding of Terraform and their ability to work with and set up infrastructure as code for AWS.
-
-The goal is to set up a couple of servers in the cloud and network them so that specific
-
  
 
 Requirements for the configuration:
